@@ -20,3 +20,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 Feel free to contact me for any sugestions or improvements
+
