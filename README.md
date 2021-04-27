@@ -2,7 +2,7 @@
 Demo React JS App 
 
 ## Getting Started
-Small react react app showing basic components in a traveler app.
+Small react app showing basic components in a small traveler app.
 
 
 ### Prerequisites
