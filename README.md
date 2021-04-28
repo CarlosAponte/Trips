@@ -19,5 +19,6 @@ Small react app showing basic components in a small traveler app.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-Feel free to contact me for any sugestions or improvements
+- Most of the css code was "borrowed" from the internet. My knowledge is in this topic need to be polished.
+- Weird thing happening with the images inside the public folder. Sometimes they can be referenced other times there are errors.
 

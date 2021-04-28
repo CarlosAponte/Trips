@@ -19,8 +19,8 @@ function Navbar() {
         }
     };
 
-    /*Weird thing I had to add beacuse the button keeps appearing
-    when I resize the screen*/
+    /* Weird thing I had to add beacuse the button keeps appearing
+    when I resize the screen */
     useEffect(() => {
         showButton()
     },[]);
@@ -32,7 +32,7 @@ function Navbar() {
      <nav className="navbar">
          <div className="navbar-container">
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                My Trips <i className="fab fa-typo3" />
+                My Trips  <i className="fas fa-plane-departure" />
             </Link>
             <div className='menu-icon' onClick={handleClick}>
                 <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
